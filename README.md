@@ -12,6 +12,10 @@
 - navigation.md 추가
 - 로그인 / 로그아웃 추가
 
+## 사이드바 추가
+
+- sidebar.md 추가
+
 # 서비스 소개 페이지 추가
 
 - about.md 추가
