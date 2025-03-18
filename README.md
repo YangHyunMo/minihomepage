@@ -16,6 +16,10 @@
 
 - sidebar.md 추가
 
+## 서치 추가
+
+- search.md 추가
+
 # 서비스 소개 페이지 추가
 
 - about.md 추가
