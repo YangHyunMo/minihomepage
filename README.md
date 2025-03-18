@@ -14,11 +14,15 @@
 
 ## 사이드바 추가
 
+feature/search1
 - sidebar.md 추가요
 
 ## 서치 추가
 
 - search.md 추가요
+=======
+- sidebar.md 추가합니다.
+main
 
 # 서비스 소개 페이지 추가
 
